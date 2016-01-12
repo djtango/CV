@@ -1,4 +1,4 @@
-## Your Name
+## Deon Jeremiah Tan
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -32,17 +32,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### University of Oxford (10/09 to 07/13)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Chemistry
+- First Class Honours
+- Worked with lasers and Nuclear Magnetic Resonance spectrometers to further the field of medical imaging / Magnetic Resonance Imaging (MRI)
+- Formed a team of 19 and a budget of £3000 to organise a week of fun activities for incoming undergraduates
+- Awarded a Half-Blue for winning fight at the Taekwondo Varsity
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Amazon EU SARL** (03/15 to 10/15)    
+*Retail Finance Analyst*  
+**Amazon EU SARL** (01/14 to 03/15)   
+*Catalogue Support Specialist*  
