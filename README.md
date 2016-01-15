@@ -6,7 +6,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 Project Name | Description | Technologies | Testing
 --- | --- | --- | ---
-[SofAR](https://github.com/djtango/furniture-app) |  An augmented-reality mobile app for helping customers visualise furniture in their home | Java, Android, Javscript, HTML, Wikitude  | JUnit
+[SofAR](https://github.com/djtango/furniture-app) |  An augmented-reality mobile app for helping customers visualise furniture in their home | Java, Android, Javscript, HTML, Wikitude  | 
 [Capriccioso](https://github.com/djtango/capriccioso) | A single-page game/learning-aid for musicians looking to improve their harmony | MongoDB, Express.js, AngularJS, Node.js  | Jasmine, Protractor, Karma
 [Solve Sudoku](https://github.com/djtango/Algorithms/sudoku) | A test-driven recursive algorithm that will find every solution to a blank sudoku grid  |  Ruby | RSpec
 [Bowling Challenge](https://github.com/djtango/bowling-challenge-clj) | A test-driven recursive algorithm for calculating the score for a ten-pin bowling scorecard | Clojure | Speclj
@@ -25,14 +25,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-- While working as a catalogue support specialist at Amazon, I identified a problem with a major book vendor's data feed. When 
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- While working as a catalogue support specialist at Amazon, I identified a problem with a major book vendor's data feed. After conducting research this was a long standing problem that had arisen due to miscommunication between the development and business teams.
+
+- Bridging the problem involved working closely with three teams. I provided the tech teams with quantification of the business impact - this helped them appreciate the scale of the issue, distilling the problem into a clear set of problems and issues made it easier for the business team support in fixing the problem, and good communication with the external vendor was necessary to keep them well informed and help troubleshoot issues throughout the process.
+- The work improved data quality on over 370000 titles and increased weekly profit by nearly £100k per month.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (10/15 to 01/16)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -40,6 +40,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
+- Learned Clojure and Java in addition to course materials
 
 #### University of Oxford (10/09 to 07/13)
 
