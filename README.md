@@ -47,7 +47,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Chemistry
 - First Class Honours
 - Worked with lasers and Nuclear Magnetic Resonance spectrometers to further the field of medical imaging / Magnetic Resonance Imaging (MRI)
-- Formed a team of 19 and a budget of £3000 to organise a week of fun activities for incoming undergraduates
+- Elected as First-Year Representative, and formed a team of 19 and a budget of £3000 to organise a week of fun activities for incoming undergraduates as part of my responsibilities
 - Awarded a Half-Blue for winning fight at the Taekwondo Varsity
 
 #### Any other qualifications
