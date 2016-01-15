@@ -1,6 +1,6 @@
 ## Deon Tan
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+A keen learner looking for opportunities in software engineering and web development. A big fan of Japanese videogames, cooking and functional programming.
 
 ## Code Examples
 
@@ -18,9 +18,8 @@ Project Name | Description | Technologies | Testing
 While at Amazon, I was given the broad remit to improve catalogue processes and was given autonomy over how I sought to achieve this. This was a daunting task as this was my first full-time job.
 - To ensure I used my time effectively, I structured my time into three: 1) analyse problems and identify opportunities, 2) implement solutions that had the greatest impact and/or lowest cost, and 3) reflect by quantifying the impact and understanding any learnings that arose.
 
-- Experience
-- Achievements
-- Evidence
+- one such case where this process was particularly useful was when offshoring vendor contacts relating to catalogue data to our overseas support teams
+- by following this process, I was able to continuously deliver solutions in an iterative process based on which issues were the most frequent
 
 #### Collaborator
 
