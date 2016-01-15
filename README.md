@@ -42,7 +42,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Rspec, Jasmine, Mocha
 - Learned Clojure and Java in addition to course materials
 
-#### University of Oxford (10/09 to 07/13)
+#### University of Oxford (10/09 - 07/13)
 
 - Chemistry
 - First Class Honours
@@ -54,14 +54,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Amazon EU SARL** (03/15 to 10/15)    
+**Amazon EU SARL** (03/15 - 10/15)    
 *Retail Finance Analyst* | business partnered with the Home and Leisure product family
 
-**Amazon EU SARL** (01/14 to 03/15)   
+**Amazon EU SARL** (01/14 - 03/15)   
 *Catalogue Support Specialist* | technical point of contact for the Media product family for catalogue data processes
 
-**Scarpetta and Coquille** (08/13 to 09/13)    
+**Scarpetta and Coquille** (08/13 - 09/13)    
 *Intern*  | helped to launch two start-up restaurants in Shanghai
 
-**No. 66 Middle School** (02/09 to 07/09)    
+**No. 66 Middle School** (02/09 - 07/09)    
 *Foreign Teacher* | taught English to local Chinese students in classrooms of up to 50 students 
