@@ -44,7 +44,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### University of Oxford (10/09 - 07/13)
 
-- Masters degree in Chemistry (MChem)
+- Master's degree in Chemistry (MChem)
 - First Class Honours
 - Worked with lasers and Nuclear Magnetic Resonance spectrometers to further the field of medical imaging / Magnetic Resonance Imaging (MRI)
 - Elected as First-Year Representative, and formed a team of 19 and a budget of £3000 to organise a week of fun activities for incoming undergraduates as part of my responsibilities
