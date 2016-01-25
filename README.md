@@ -1,6 +1,6 @@
 ## Deon Tan
 
-A keen learner looking for opportunities in software engineering and web development. A big fan of Japanese videogames, cooking and functional programming.
+A keen learner looking for opportunities in software engineering and web development. Passionate about cooking, piano and martial arts.
 
 ## Code Examples
 
